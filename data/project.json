@@ -4,7 +4,13 @@
     "publish_sha": "",
     "publish_iso_date": ""
   },
-  "users": [],
+  "users": [
+    {
+      "login_name": "RubriaR",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32942466?v=4",
+      "admin": true
+    }
+  ],
   "project": {
     "github_org": "RubriaR",
     "is_private": false,
@@ -22,6 +28,27 @@
       "tags": []
     },
     "created_at": "2025-10-17T16:18:05.335Z",
-    "updated_at": "2025-10-17T16:18:05.335Z"
-  }
+    "updated_at": "2025-10-17T16:18:05.335Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "53fd7085-20fd-4187-9920-8e39dce3eef5": {
+      "content": [],
+      "created_at": "2025-10-17T16:18:05.339Z",
+      "created_by": "RubriaR",
+      "title": "Harguindeguy",
+      "updated_at": "2025-10-17T16:18:05.339Z",
+      "updated_by": "RubriaR",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "53fd7085-20fd-4187-9920-8e39dce3eef5"
+  ]
 }
